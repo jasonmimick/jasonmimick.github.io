@@ -9,7 +9,7 @@
 ---
 * Building and shipping quality products across a variety of technologies for 20+ years  
 
-* Extensive cloud and traditional application, service, and database technical product development  
+* Extensive cloud and traditional application, service, and database technical product development experience 
 
 * Pragmatic, driven, hands-on, roll-up-sleeves attitude
 
@@ -19,18 +19,14 @@
 ##### Technical Director 2017 ￫ present
 
 
-* Managing product strategy, customer and prospect relations, technical integration, and marketing efforts           between MongoDB and key technical partners such as Microsoft, RedHat, Pivotal, Adobe, and others
-
+* Managing product strategy, customer and prospect relations, technical integrations, and marketing efforts           between MongoDB and key technical partners such as Microsoft, RedHat, Pivotal, Adobe, and others
 * Responsible for product management, technical design, and strategy for MongoDB integration with Kubernetes, Pivotal PCF, and other cloud-based technologies. Lead on MongoDB PCF Tile GA release and MongoDB Kubernetes Operator launch
-
 * Providing daily support and direction for sales, engineering, marketing, and services organizations at MongoDB
-
 * Contributing to account revenue acquisition and growth through direct customer and sales team interaction
 
 ##### Senior Consulting Engineer (2015 ￫ 2017)
 
 * Delivered on-site technical advice to customers across numerous industries
-
 * Drove technical project success as embedded dedicated consultant for companies such as United Airlines, The Gap, and the US Dept. of Veterans Affairs
 
 #### InterSystems Corporation - Cambridge, Massachusetts USA
@@ -38,7 +34,6 @@
 
 * Provided technical expertise for global prospects ranging from startups to $10B+ corporations
 * Designed and built cloud-based applications and integration solutions across diverse technologies
-
 * Evangelized and educated internal and external customers
 
 #### Forgentum - Gainesville, Virginia USA
@@ -127,8 +122,8 @@ python angularjs
 ### Education 
 ---
 * University of Vermont MS Mathematics 1998
-Master's Thesis: Ranking Partially Ordered Sets  
-Graduate Teaching Fellow - Algebra, Calculus, and Discrete Mathematics 
+** Master's Thesis: Ranking Partially Ordered Sets  
+** Graduate Teaching Fellow - Algebra, Calculus, and Discrete Mathematics 
 * University of Nebraska BS Mathematics 1996  
 
 
