@@ -8,9 +8,7 @@
 ### Professional Summary        
 ---
 * Building and shipping quality products across a variety of technologies for 20+ years  
-
 * Extensive cloud and traditional application, service, and database technical product development experience 
-
 * Pragmatic, driven, hands-on, roll-up-sleeves attitude
 
 ### Employment History
