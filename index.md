@@ -1,5 +1,5 @@
-# Jason Mimick
-## Adept Cloud Focused Product Manager and Engineer
+## Jason Mimick
+### Seasoned Software Engineer, Product Manager, and Team builder
 
 [https://www.linkedin.com/in/jmimick](https://www.linkedin.com/in/jmimick)  
 [jmimick@gmail.com](jmimick@gmail.com)  
@@ -15,7 +15,8 @@
 
 ### Employment History
 ---
-#### MongoDB, Inc. New York, New York USA##### *Technical Director 2017 ￫*
+#### MongoDB, Inc. New York, New York USA
+##### Technical Director 2017 ￫ present
 
 
 * Managing product strategy, customer and prospect relations, technical integration, and marketing efforts           between MongoDB and key technical partners such as Microsoft, RedHat, Pivotal, Adobe, and others
