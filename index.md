@@ -27,14 +27,14 @@
 
 * Contributing to account revenue acquisition and growth through direct customer and sales team interaction
 
-##### Senior Consulting Engineer (2015-2017)
+##### Senior Consulting Engineer (2015 ￫ 2017)
 
 * Delivered on-site technical advice to customers across numerous industries
 
 * Drove technical project success as embedded dedicated consultant for companies such as United Airlines, The Gap, and the US Dept. of Veterans Affairs
 
 #### InterSystems Corporation - Cambridge, Massachusetts USA
-##### Sales Engineer - 2012￫ 2014
+##### Sales Engineer - 2012 ￫ 2014
 
 * Provided technical expertise for global prospects ranging from startups to $10B+ corporations
 * Designed and built cloud-based applications and integration solutions across diverse technologies
@@ -49,49 +49,49 @@
 * Prototyped MongoDB based medical concept search system
 
 #### Microsoft Corporation - Redmond, Washington USA
-##### Senior Software Engineer Lead - 2010￫ 2012
+##### Senior Software Engineer Lead - 2010 ￫ 2012
  
 * Managed development team of 7 engineers for Microsoft HealthVault Community Connect
 * Designed, built and evangelized partner software development kit
 * Implemented federal healthcare reform requirements; FDA, MU
 
 
-##### Senior Software Engineer - 2008￫ 2010
+##### Senior Software Engineer - 2008 ￫ 2010
 * Built data ingestion engine and developer tools for Amalga speeding up implementations by a factor of 4
 * Ensured repeatable and verifiable data processing by extending Microsoft development tools
 * Boosted team and customer productivity and technical skills via training, consulting, and mentoring
 
 
 #### QuadraMed Corporation - Reston, Virginia USA
-##### Enterprise Architect - 2007￫ 2008
+##### Enterprise Architect - 2007 ￫ 2008
 * Enabled product development by translating business requirements into technical road map
 * Advised leadership team on strategic technology plans
 * Delivered architectural blueprints for single-sign-on, workflow, and business intelligence projects 
 
 
-##### Director Product Development - 2005￫ 2007 
+##### Director Product Development - 2005 ￫ 2007 
 * Utilized agile methods to manage team of 17 designers, engineers, testers, and writers
 * Delivered multiple releases of application development platform, person indexing system, workflow solution, front-end gui, and content management products
 * Accountable to entire organization for application development platform support 
 
-##### Principal Software Engineer/Team Lead - 2002￫ 2005
+##### Principal Software Engineer/Team Lead - 2002 ￫ 2005
 
 * Developed hospital consumer web portal applications 
 * Designed and built Java HL7 enterprise messaging system
 * Integrated biometric and LDAP authentication systems into existing products
 
 
-##### Programmer/Analyst II - 2000￫ 2002
+##### Programmer/Analyst II - 2000 ￫ 2002
 * HL7 CCOW enabled products and developed bi-directional HL7 interfaces 
 * Conducted training courses on proprietary 4GL programming language increasing development productivity
 
 
 #### University of Memphis - Memphis, Tennessee USA
-##### Graduate Teaching Fellow  - 1999￫ 2000
+##### Graduate Teaching Fellow  - 1999 ￫ 2000
 * Lectured university algebra, calculus, and discrete mathematics courses
 
 #### IDX Systems Corporation - Burlington, Vermont USA
-##### Software Engineer - 1998￫ 2000
+##### Software Engineer - 1998 ￫ 2000
 * Designed and coded Mumps database scripts and HL7 interfaces for several IDX clients 
 
 ### Speaking Engangements
