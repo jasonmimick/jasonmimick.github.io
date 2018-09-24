@@ -87,12 +87,14 @@
 ##### Software Engineer - 1998 ￫ 2000
 * Designed and coded Mumps database scripts and HL7 interfaces for several IDX clients 
 
-### Speaking Engangements
+### Speaking Engangements, Blog & Webinars
 ---
+* Rakuten Technology Conference Tokyo Oct 2018
 * MongoDB.local "MongoDB Ops Manager and Kubernetes" Chicago, Austin, DC, Sept-Oct 2018
 * MongoDB World [Deploying MongoDB Enterprise on Red Hat OpenShift](https://www.slideshare.net/mongodb/mongodb-world-2018-partner-talk-red-hat-deploying-to-enterprise-kubernetes) NYC June 2018
-* Pivotal Webinar [How to overcome data challenges when refactoring monoliths to microservices](https://content.pivotal.io/slides/how-to-overcome-data-challenges-when-refactoring-monoliths-to-microservices), Feb 2018
 * Chicago Kubernetes Meetup [MongoDB Enterprise on Kubernetes](https://www.meetup.com/Chicago-Kubernetes/events/251025338/), May 2018
+* Pivotal Webinar [How to overcome data challenges when refactoring monoliths to microservices](https://content.pivotal.io/slides/how-to-overcome-data-challenges-when-refactoring-monoliths-to-microservices), Feb 2018
+* Red Hat blog [Mongodb Enterprise Running on OpenShift](https://blog.openshift.com/dev-preview-mongodb-enterprise-running-on-openshift/), Feb 2018
 * Pivotal SpringOne [Beyond rapid development](https://content.pivotal.io/springone-platform-2017/beyond-rapid-development-jason-mimick), San Francisco Dec 2017
 * MongoDB World, New York June 2015
 * InterSystems Global Summit 2013
