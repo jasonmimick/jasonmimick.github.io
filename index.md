@@ -103,22 +103,34 @@
 
 ### Technical Skills
 ---
-```
-MongoDB Azure GCP Kubernetes 
-Cloud Foundry AWS/EC2 OpenShift Bash
-JAVA JavaScript Linux vim
-Caché Ensemble HealthShare .NET
-C# PowerShell HTML XML 
-LINQ Ant TFS Visual Studio 
-git Subversion MSBuild WPF
-PHP Perl Windows HL7 MSI
-SQL Server MySQL SQLite Scrum 
-TDD Hibernate Hadoop Git HTTP
-CSS JSON redis node.js 
-python angularjs
-```
-[https://github.com/jasonmimick](https://github.com/jasonmimick)
-
+MongoDB <img alt="MongoDB" width="150" hight="50" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+"JSON",
+REST
+Amazon Web Services
+Microsoft Azure
+Google Cloud Platform
+Kubernetes
+"Pivotal Cloud Foundry
+"RedHat OpenShift
+"Linux
+"Windows
+"Docker
+"lxd/lxc
+"Bash"
+"Github"
+"Powershell"
+"HTTP"
+"HTML
+"CSS
+"Caché"
+"Ensemble"
+"HealthShare"
+"HL7"
+"CDA"
+"Mumps"
+    
+       
+ 
 ### Education 
 ---
 * University of Vermont MS Mathematics 1998
