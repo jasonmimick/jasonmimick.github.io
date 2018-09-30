@@ -103,56 +103,62 @@
 <table id="skills">
  <tr>
   <td>
-<img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+    <img alt="MongoDB" src="images/mongodb.jpg"/>
   </td>
   <td>
-   <img alt="MongoDB" src="images/json-logo.png"/>
+   <img alt="JSON" src="images/json-logo.png"/>
   </td>
   <td>
-   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+   <img alt="AWS" src="aws.png"/>
   </td>
  </tr>
  <tr>
   <td>
-<img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+    <img alt="Red Hat OpenShift" src="images/openshift.png"/>
   </td>
   <td>
-   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+    <img alt="Pivotal Cloud Foundry" src="images/pivotal-cloud-foundry.png"/>
   </td>
   <td>
-   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+    <img alt="Linux" src="images/linux.jpeg"/>
   </td>
  </tr>
+ <tr>
+  <td>
+    <img alt="Microsoft Windows" src="images/windows.png"/>
+  </td>
+  <td>
+    <img alt="Docker" src="images/docker.png"/>
+  </td>
+  <td>
+    <img alt="lxd" src="images/lxd.png"/>
+  </td>
+ </tr>
+ <tr>
+  <td>
+    <img alt="Bash" src="images/bash.png"/>
+  </td>
+  <td>
+    <img alt="GitHub" src="images/github.png"/>
+  </td>
+  <td>
+    <img alt="HTTP" src="images/http.png"/>
+  </td>
+ </tr>
+ <tr>
+  <td>
+    <img alt="HTML" src="images/html.png"/>
+  </td>
+  <td>
+    <img alt="InterSystems" src="images/intersystems.png"/>
+  </td>
+  <td>
+    <img alt="HL7" src="images/hl7.png"/>
+  </td>
+ </tr>
+
 </table> 
----
-MongoDB <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
-"JSON",
-REST
-Amazon Web Services
-Microsoft Azure
-Google Cloud Platform
-Kubernetes
-"Pivotal Cloud Foundry
-"RedHat OpenShift
-"Linux
-"Windows
-"Docker
-"lxd/lxc
-"Bash"
-"Github"
-"Powershell"
-"HTTP"
-"HTML
-"CSS
-"Caché"
-"Ensemble"
-"HealthShare"
-"HL7"
-"CDA"
-"Mumps"
----    
-       
- 
+
 ### Education 
 ---
 * University of Vermont MS Mathematics 1998
