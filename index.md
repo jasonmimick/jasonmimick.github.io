@@ -100,7 +100,7 @@
 * QuadraMed User Groups 2002-2010
 
 ### Technical Skills
-<table id="skills">
+<table id="skills" style="tr.td.width=100;tr.td.height=50">
  <tr>
   <td>
     <img alt="MongoDB" src="images/mongodb.jpg"/>
@@ -114,10 +114,21 @@
  </tr>
  <tr>
   <td>
+    <img alt="AWS" src="images/aws.jpg"/>
+  </td>
+  <td>
+   <img alt="Google Clound Platform" src="images/pcf.png"/>
+  </td>
+  <td>
+   <img alt="Microsoft Azure" src="azure.png"/>
+  </td>
+ </tr>
+<tr>
+  <td>
     <img alt="Red Hat OpenShift" src="images/openshift.png"/>
   </td>
   <td>
-    <img alt="Pivotal Cloud Foundry" src="images/pivotal-cloud-foundry.png"/>
+    <img alt="Pivotal Cloud Foundry" src="images/pcf.png"/>
   </td>
   <td>
     <img alt="Linux" src="images/linux.jpeg"/>
