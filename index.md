@@ -14,7 +14,7 @@
 ### Employment History
 ---
 #### MongoDB, Inc. New York, New York USA
-##### Technical Director 2017 ￫ present
+##### Technical Director - 2017 ￫ present
 
 
 * Managing product strategy, customer and prospect relations, technical integrations, and marketing efforts           between MongoDB and key technical partners such as Microsoft, RedHat, Pivotal, Adobe, and others
@@ -22,7 +22,7 @@
 * Providing daily support and direction for sales, engineering, marketing, and services organizations at MongoDB
 * Contributing to account revenue acquisition and growth through direct customer and sales team interaction
 
-##### Senior Consulting Engineer (2015 ￫ 2017)
+##### Senior Consulting Engineer - 2015 ￫ 2017
 
 * Delivered on-site technical advice to customers across numerous industries
 * Drove technical project success as embedded dedicated consultant for companies such as United Airlines, The Gap, and the US Dept. of Veterans Affairs
@@ -73,7 +73,6 @@
 * Designed and built Java HL7 enterprise messaging system
 * Integrated biometric and LDAP authentication systems into existing products
 
-
 ##### Programmer/Analyst II - 2000 ￫ 2002
 * HL7 CCOW enabled products and developed bi-directional HL7 interfaces 
 * Conducted training courses on proprietary 4GL programming language increasing development productivity
@@ -89,7 +88,6 @@
 
 ### Speaking Engangements, Blog & Webinars
 ---
-* Rakuten Technology Conference Tokyo Oct 2018
 * MongoDB.local "MongoDB Ops Manager and Kubernetes" Chicago, Austin, DC, Sept-Oct 2018
 * MongoDB World [Deploying MongoDB Enterprise on Red Hat OpenShift](https://www.slideshare.net/mongodb/mongodb-world-2018-partner-talk-red-hat-deploying-to-enterprise-kubernetes) NYC June 2018
 * Chicago Kubernetes Meetup [MongoDB Enterprise on Kubernetes](https://www.meetup.com/Chicago-Kubernetes/events/251025338/), May 2018
@@ -102,8 +100,32 @@
 * QuadraMed User Groups 2002-2010
 
 ### Technical Skills
+<table id="skills">
+ <tr>
+  <td>
+<img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+  <td>
+   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+  <td>
+   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+ </tr>
+ <tr>
+  <td>
+<img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+  <td>
+   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+  <td>
+   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+  </td>
+ </tr>
+</table> 
 ---
-MongoDB <img alt="MongoDB" width="150" hight="50" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+MongoDB <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
 "JSON",
 REST
 Amazon Web Services
@@ -128,7 +150,7 @@ Kubernetes
 "HL7"
 "CDA"
 "Mumps"
-    
+---    
        
  
 ### Education 
