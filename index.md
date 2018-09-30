@@ -120,7 +120,7 @@
    <img alt="Google Clound Platform" src="images/gcp.png"/>
   </td>
   <td>
-   <img alt="Microsoft Azure" src="azure.png"/>
+   <img alt="Microsoft Azure" src="images/azure.png"/>
   </td>
  </tr>
 <tr>
