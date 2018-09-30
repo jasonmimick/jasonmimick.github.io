@@ -9,3 +9,14 @@ body {
 section {
   width: 100%
 }
+table.logos {
+ table-layout: fixed;
+ width: 300;
+}
+th,td {
+  border: 0px
+}
+td {
+  vertical-align: center;
+  horizontal-align: center
+}
