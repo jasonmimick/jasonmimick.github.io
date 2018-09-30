@@ -106,7 +106,7 @@
 <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
   </td>
   <td>
-   <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
+   <img alt="MongoDB" src="images/json-logo.png"/>
   </td>
   <td>
    <img alt="MongoDB" src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg"/>
