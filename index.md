@@ -103,21 +103,21 @@
 <table id="skills" style="tr.td.width=100;tr.td.height=50">
  <tr>
   <td>
-    <img alt="MongoDB" src="images/mongodb.jpg"/>
+    <img alt="MongoDB" width="150" height="50" src="images/mongodb.jpg"/>
   </td>
   <td>
+   <img alt="Kubernetes" src="images/k8s.png"/>
+  </td>
+ <td>
    <img alt="JSON" src="images/json-logo.png"/>
-  </td>
-  <td>
-   <img alt="AWS" src="aws.png"/>
   </td>
  </tr>
  <tr>
   <td>
-    <img alt="AWS" src="images/aws.jpg"/>
+    <img alt="AWS" src="images/aws.png"/>
   </td>
   <td>
-   <img alt="Google Clound Platform" src="images/pcf.png"/>
+   <img alt="Google Clound Platform" src="images/gcp.png"/>
   </td>
   <td>
    <img alt="Microsoft Azure" src="azure.png"/>
