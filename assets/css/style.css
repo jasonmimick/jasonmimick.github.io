@@ -10,7 +10,7 @@ section {
   width: 100%
 }
 table.logos {
- table-layout: float;
+ table-layout: fixed;
  width: 300;
 }
 th,td {
