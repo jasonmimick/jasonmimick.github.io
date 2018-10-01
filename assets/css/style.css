@@ -1,5 +1,5 @@
 body {
-  margin: 0px;
+  margin: 10px 20px 10px 20px;
   padding: 0px;
   font-family: Helvetica, Arial
 }
@@ -10,7 +10,7 @@ section {
   width: 100%
 }
 table.logos {
- table-layout: fixed;
+ table-layout: float;
  width: 300;
 }
 th,td {
@@ -18,8 +18,8 @@ th,td {
   border-padding: 0px;
 }
 img {
-  width: 150px;
-  height: 50px;
+  height: 100%;
+  object-fit: contain
 }
 td {
   vertical-align: center;
