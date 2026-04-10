@@ -1,29 +1,199 @@
-body {
-  margin: 10px 20px 10px 20px;
-  padding: 0px;
-  font-family: Helvetica, Arial
-}
-.div.wrapper {
-  margin: 0px
-}
-section {
-  width: 100%
-}
-table.logos {
- table-layout: fixed;
- width: 300;
-}
-th,td {
-  border: 0px;
-  border-padding: 0px;
-}
-img {
-   display:block; 
-   width:100%; 
-   height:auto;
+/* ── Bauhaus / Arts & Crafts Theme ── */
+
+:root {
+  --black: #1a1a1a;
+  --white: #f5f0e8;
+  --red: #c1272d;
+  --blue: #1b3a5c;
+  --yellow: #e8a838;
+  --gray: #6b6b6b;
+  --light-gray: #d4cfc4;
+  --font-sans: 'DM Sans', 'Helvetica Neue', sans-serif;
+  --font-mono: 'DM Mono', 'Courier New', monospace;
 }
 
-td {
-  vertical-align: center;
-  horizontal-align: center
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: var(--white);
+  color: var(--black);
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+/* Top accent bar — Bauhaus primary colors */
+.bauhaus-accent {
+  height: 6px;
+  background: linear-gradient(90deg, var(--red) 33%, var(--yellow) 33%, var(--yellow) 66%, var(--blue) 66%);
+}
+
+.wrapper {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 3rem 2rem 2rem;
+}
+
+/* ── Typography ── */
+
+h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--black);
+  margin-bottom: 0.2rem;
+  border-bottom: 4px solid var(--red);
+  display: inline-block;
+  padding-bottom: 0.15rem;
+}
+
+h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--blue);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--light-gray);
+}
+
+h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--black);
+  margin-top: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+
+h3 a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 2px solid var(--yellow);
+  transition: border-color 0.2s;
+}
+
+h3 a:hover {
+  border-color: var(--red);
+}
+
+h3 em {
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-left: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  color: var(--black);
+}
+
+/* First paragraph — subtitle/intro */
+h1 + p {
+  font-size: 1.1rem;
+  color: var(--gray);
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+
+/* Links line */
+h1 + p + p {
+  font-size: 0.9rem;
+}
+
+a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid var(--yellow);
+  transition: all 0.2s;
+}
+
+a:hover {
+  color: var(--red);
+  border-color: var(--red);
+}
+
+strong {
+  font-weight: 700;
+}
+
+em {
+  font-style: italic;
+  color: var(--gray);
+}
+
+/* ── Horizontal rules — geometric block ── */
+
+hr {
+  border: none;
+  height: 3px;
+  background: var(--black);
+  margin: 2.5rem 0;
+  position: relative;
+}
+
+hr::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: -4px;
+  width: 12px;
+  height: 12px;
+  background: var(--red);
+}
+
+/* ── Lists ── */
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 0.4rem 0;
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+ul li::before {
+  content: '■';
+  color: var(--yellow);
+  font-size: 0.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.65rem;
+}
+
+/* ── Project cards (h3 + p blocks) ── */
+
+h3 + p {
+  color: var(--gray);
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+  padding-left: 0;
+}
+
+/* ── Footer ── */
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--light-gray);
+  text-align: center;
+}
+
+footer p {
+  font-size: 0.8rem;
+  color: var(--light-gray);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ── Responsive ── */
+
+@media (max-width: 600px) {
+  .wrapper { padding: 2rem 1.2rem; }
+  h1 { font-size: 2rem; }
 }
