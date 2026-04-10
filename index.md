@@ -1,189 +1,48 @@
-## Jason Mimick
-### Seasoned Software Engineer, Product Manager, and Team builder
+# Jason Mimick
 
-[https://www.linkedin.com/in/jmimick](https://www.linkedin.com/in/jmimick)  
-[jmimick@gmail.com](jmimick@gmail.com)  
-[tel:540-359-5137](tel:540-359-5137)
+**Senior Partner Solutions Architect @ AWS** — Observability, GenAI, Developer Tools
 
-### Professional Summary        
+Building at the intersection of AI agents, cloud infrastructure, and observability. 25+ years shipping products across databases, cloud platforms, and developer tooling.
+
+📄 [Portfolio & Resume](https://jasonmimick.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/jmimick) · [GitHub (personal)](https://github.com/jasonmimick) · [GitHub (AWS)](https://github.com/jasonmimick-aws) · [@jmimick](https://twitter.com/jmimick)
+
 ---
-* Building and shipping quality products across a variety of technologies for 20+ years  
-* Extensive cloud and traditional application, service, and database technical product development experience 
-* Pragmatic, driven, hands-on, roll-up-sleeves attitude
 
-### Employment History
+## 🔥 Latest Work
+
+### [agentcore-webrtc](https://github.com/jasonmimick-aws/agentcore-webrtc) — *Mar 2026*
+Real-time voice agent combining Strands BidiAgent, Amazon Nova Sonic, and Bedrock AgentCore Runtime with Dynatrace OpenTelemetry instrumentation. Talk to an AI agent over WebRTC with full observability.
+
+### [agentic-sre-toolkit](https://github.com/jasonmimick-aws/agentic-sre-toolkit) — *Apr 2026*
+AgentCore-powered SRE automation with Dynatrace. Evaluates agentic approaches to site reliability — automated incident detection, root cause analysis, and remediation.
+
+### [slack-strands-agent](https://github.com/jasonmimick-aws/slack-strands-agent) — *Apr 2026*
+A Slack-native AI agent built on the Strands Agents SDK. Deploy conversational AI directly into your team's Slack workspace with AgentCore runtime support.
+
+### [obsidian-kiro](https://github.com/jasonmimick-aws/obsidian-kiro) — *Apr 2026*
+Obsidian plugin that integrates Kiro AI into your knowledge management workflow. Bridge your notes and docs with AI-assisted development.
+
+### [kiro-dynatrace-acp-starter](https://github.com/jasonmimick-aws/kiro-dynatrace-acp-starter) — *Apr 2026*
+Starter template for building with Kiro and Dynatrace's Agent Communication Protocol (ACP). Get up and running with AI-powered observability workflows fast.
+
+### [aws-appconfig-tick-extn-for-dynatrace](https://github.com/jasonmimick-aws/aws-appconfig-tick-extn-for-dynatrace) — *Mar 2026*
+AWS AppConfig extension that sends feature flag change events to Dynatrace. Correlate deployments and config changes with application performance in real time.
+
+### [native-ai-lifecycle-package](https://github.com/jasonmimick-aws/native-ai-lifecycle-package) — *Mar 2026*
+End-to-end AI application lifecycle management package for Dynatrace. Monitor, evaluate, and govern AI workloads natively within the Dynatrace platform.
+
+### [observability-driven-aidlc-dynatrace](https://github.com/jasonmimick-aws/observability-driven-aidlc-dynatrace) — *Mar 2026*
+Observability-driven AI development lifecycle — using Kiro and Dynatrace together to build production-aware AI applications from day one.
+
 ---
-#### MongoDB, Inc. New York, New York USA
-##### Technical Director - 2017 ￫ present
 
+## 📝 Recent Publications
 
-* Managing product strategy, customer and prospect relations, technical integrations, and marketing efforts           between MongoDB and key technical partners such as Microsoft, RedHat, Pivotal, Adobe, and others
-* Responsible for product management, technical design, and strategy for MongoDB integration with Kubernetes, Pivotal PCF, and other cloud-based technologies. Lead on MongoDB PCF Tile GA release and MongoDB Kubernetes Operator launch
-* Providing daily support and direction for sales, engineering, marketing, and services organizations at MongoDB
-* Contributing to account revenue acquisition and growth through direct customer and sales team interaction
+- **[Monitor agents built on Amazon Bedrock with Datadog LLM Observability](https://aws.amazon.com/blogs/machine-learning/monitor-agents-built-on-amazon-bedrock-with-datadog-llm-observability/)** — AWS Machine Learning Blog, *Jul 2025*
+- **[AI Agents: Building, Scaling, and Monitoring Autonomous Systems on AWS](https://dash.datadoghq.com/2025/speakers/jason-mimick)** — Datadog DASH 2025 Talk, *Jun 2025*
 
-##### Senior Consulting Engineer - 2015 ￫ 2017
-
-* Delivered on-site technical advice to customers across numerous industries
-* Drove technical project success as embedded dedicated consultant for companies such as United Airlines, The Gap, and the US Dept. of Veterans Affairs
-
-#### InterSystems Corporation - Cambridge, Massachusetts USA
-##### Sales Engineer - 2012 ￫ 2014
-
-* Provided technical expertise for global prospects ranging from startups to $10B+ corporations
-* Designed and built cloud-based applications and integration solutions across diverse technologies
-* Evangelized and educated internal and external customers
-
-#### Forgentum - Gainesville, Virginia USA
-#####  Senior Software Architect - 2012
- 
-* Built an extensible data access, aggregation and visualization platform
-* Integrated modern medication management user experience with legacy electronic medical record system
-* Prototyped MongoDB based medical concept search system
-
-#### Microsoft Corporation - Redmond, Washington USA
-##### Senior Software Engineer Lead - 2010 ￫ 2012
- 
-* Managed development team of 7 engineers for Microsoft HealthVault Community Connect
-* Designed, built and evangelized partner software development kit
-* Implemented federal healthcare reform requirements; FDA, MU
-
-
-##### Senior Software Engineer - 2008 ￫ 2010
-* Built data ingestion engine and developer tools for Amalga speeding up implementations by a factor of 4
-* Ensured repeatable and verifiable data processing by extending Microsoft development tools
-* Boosted team and customer productivity and technical skills via training, consulting, and mentoring
-
-
-#### QuadraMed Corporation - Reston, Virginia USA
-##### Enterprise Architect - 2007 ￫ 2008
-* Enabled product development by translating business requirements into technical road map
-* Advised leadership team on strategic technology plans
-* Delivered architectural blueprints for single-sign-on, workflow, and business intelligence projects 
-
-
-##### Director Product Development - 2005 ￫ 2007 
-* Utilized agile methods to manage team of 17 designers, engineers, testers, and writers
-* Delivered multiple releases of application development platform, person indexing system, workflow solution, front-end gui, and content management products
-* Accountable to entire organization for application development platform support 
-
-##### Principal Software Engineer/Team Lead - 2002 ￫ 2005
-
-* Developed hospital consumer web portal applications 
-* Designed and built Java HL7 enterprise messaging system
-* Integrated biometric and LDAP authentication systems into existing products
-
-##### Programmer/Analyst II - 2000 ￫ 2002
-* HL7 CCOW enabled products and developed bi-directional HL7 interfaces 
-* Conducted training courses on proprietary 4GL programming language increasing development productivity
-
-
-#### University of Memphis - Memphis, Tennessee USA
-##### Graduate Teaching Fellow  - 1999 ￫ 2000
-* Lectured university algebra, calculus, and discrete mathematics courses
-
-#### IDX Systems Corporation - Burlington, Vermont USA
-##### Software Engineer - 1998 ￫ 2000
-* Designed and coded Mumps database scripts and HL7 interfaces for several IDX clients 
-
-### Speaking Engangements, Blog & Webinars
 ---
-* MongoDB.local "MongoDB Ops Manager and Kubernetes" Chicago, Austin, DC, Sept-Oct 2018
-* MongoDB World [Deploying MongoDB Enterprise on Red Hat OpenShift](https://www.slideshare.net/mongodb/mongodb-world-2018-partner-talk-red-hat-deploying-to-enterprise-kubernetes) NYC June 2018
-* Chicago Kubernetes Meetup [MongoDB Enterprise on Kubernetes](https://www.meetup.com/Chicago-Kubernetes/events/251025338/), May 2018
-* Pivotal Webinar [How to overcome data challenges when refactoring monoliths to microservices](https://content.pivotal.io/slides/how-to-overcome-data-challenges-when-refactoring-monoliths-to-microservices), Feb 2018
-* Red Hat blog [Mongodb Enterprise Running on OpenShift](https://blog.openshift.com/dev-preview-mongodb-enterprise-running-on-openshift/), Feb 2018
-* Pivotal SpringOne [Beyond rapid development](https://content.pivotal.io/springone-platform-2017/beyond-rapid-development-jason-mimick), San Francisco Dec 2017
-* MongoDB World, New York June 2015
-* InterSystems Global Summit 2013
-* Microsoft Health Vault Commuity Connect, Chicago April 2011
-* QuadraMed User Groups 2002-2010
 
-### Technical Skills
-<table id="skills" style="tr.td.width=100;tr.td.height=50">
- <tr>
-  <td>
-    <img alt="MongoDB" width="150" height="50" src="images/mongodb.jpg"/>
-  </td>
-  <td>
-   <img alt="Kubernetes" src="images/k8s.png"/>
-  </td>
- <td>
-   <img alt="JSON" src="images/json-logo.png"/>
-  </td>
- </tr>
- <tr>
-  <td>
-    <img alt="AWS" src="images/aws.png"/>
-  </td>
-  <td>
-   <img alt="Google Clound Platform" src="images/gcp.png"/>
-  </td>
-  <td>
-   <img alt="Microsoft Azure" src="images/azure.png"/>
-  </td>
- </tr>
-<tr>
-  <td>
-    <img alt="Red Hat OpenShift" src="images/openshift.png"/>
-  </td>
-  <td>
-    <img alt="Pivotal Cloud Foundry" src="images/pcf.png"/>
-  </td>
-  <td>
-    <img alt="Linux" src="images/linux.jpeg"/>
-  </td>
- </tr>
- <tr>
-  <td>
-    <img alt="Microsoft Windows" src="images/windows.png"/>
-  </td>
-  <td>
-    <img alt="Docker" src="images/docker.png"/>
-  </td>
-  <td>
-    <img alt="lxd" src="images/lxd.png"/>
-  </td>
- </tr>
- <tr>
-  <td>
-    <img alt="Bash" src="images/bash.png"/>
-  </td>
-  <td>
-    <img alt="GitHub" src="images/github.png"/>
-  </td>
-  <td>
-    <img alt="HTTP" src="images/http.png"/>
-  </td>
- </tr>
- <tr>
-  <td>
-    <img alt="HTML" src="images/html.png"/>
-  </td>
-  <td>
-    <img alt="InterSystems" src="images/intersystems.png"/>
-  </td>
-  <td>
-    <img alt="HL7" src="images/hl7.png"/>
-  </td>
- </tr>
+## 📬 Get in Touch
 
-</table> 
-
-### Education 
----
-* University of Vermont MS Mathematics 1998
-** Master's Thesis: Ranking Partially Ordered Sets  
-** Graduate Teaching Fellow - Algebra, Calculus, and Discrete Mathematics 
-* University of Nebraska BS Mathematics 1996  
-
-
-### Patents
----
-* SERVICEABILITY AND CONFIGURATION MANAGEMENT United States 20100299653
-
-
-### Personal Interests
----
-Family, Guitar & Mandolin (Bluegrass), Travelling, Running, Hiking, Cooking, Math, College Football
-
+I'm always interested in conversations about AI agents, observability, and cloud-native development. Reach out on [LinkedIn](https://www.linkedin.com/in/jmimick) or [Twitter](https://twitter.com/jmimick).
